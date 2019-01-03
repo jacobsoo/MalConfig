@@ -5,6 +5,6 @@ Robots images are provided by [robohash.org](https://robohash.org/ "RoboHash")
 
 Flag icons are provided by [famfamfam](http://www.famfamfam.com/lab/icons/flags/)
 
-Currently, there are 43 configs extracted from Android Malware.
+Currently, there are 55 configs extracted from Android Malware.
 
-The data is accurate as of 01st January 2019.
+The data is accurate as of 03rd January 2019.
