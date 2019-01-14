@@ -107,13 +107,13 @@ def logo():
     print ' \/\_____\  \ \_\ \_\  \ \_\    \ \_\  \/\_____\     \ \_____\  \ \_\ \_\  \ \_____\  \ \_\ \_\  \ \_____\  \ \_\\\\"\_\\'
     print '  \/_____/   \/_/\/_/   \/_/     \/_/   \/_____/      \/_____/   \/_/ /_/   \/_____/   \/_/\/_/   \/_____/   \/_/ \/_/'
     print '\n'
-    print " Find the C&C for this SandroRat mallie!"
+    print " Find the C&C for this TelcoFraud mallie!"
     print " Jacob Soo"
     print " Copyright (c) 2016-2019\n"
                                                                                                                       
 
 if __name__ == "__main__":
-    description='C&C Extraction tool for SandroRat'
+    description='C&C Extraction tool for TelcoFraud'
     parser = argparse.ArgumentParser(description=description,
                                      epilog='--file and --directory are mutually exclusive')
     group = parser.add_mutually_exclusive_group(required=True)
