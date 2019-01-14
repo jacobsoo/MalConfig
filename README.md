@@ -7,6 +7,8 @@ Flag icons are provided by [famfamfam](http://www.famfamfam.com/lab/icons/flags/
 
 The decoders were mostly making use of [Androguard](https://github.com/androguard) to extract the C2 or malware authors' credentials
 
+One of the decoder is making use of [LIEF](https://github.com/lief-project/LIEF) to extract the C2 from the android malware samples.
+
 Currently, there are 92 configs extracted from Android Malware.
 
 The data is accurate as of 14th January 2019.
