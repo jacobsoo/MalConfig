@@ -9,7 +9,7 @@ The decoders were mostly making use of [Androguard](https://github.com/androguar
 
 One of the decoder is making use of [LIEF](https://github.com/lief-project/LIEF) to extract the C2 from the android malware samples.
 
-One of the decoder, Anubis, is contributed by @eybisi It's pretty good.
+One of the decoder, Anubis, is contributed by [@eybisi](https://github.com/eybisi) It's pretty good.
 
 Currently, there are 239 configs extracted from Android Malware.
 
